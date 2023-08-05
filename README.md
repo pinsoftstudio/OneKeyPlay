@@ -1,6 +1,7 @@
 # OneKeyPlay
 Be out control of teacher in I.T class
-使用步骤
+
+# 使用步骤
 1.将下载的zip文件解压至U盘。
 
 2.将OneKeyPlay.exe在老师控制你的电脑前之前复制到你使用的电脑。双击运行。
